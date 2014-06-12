@@ -31,7 +31,7 @@ Screenshots
 Sample (exported) build
 ---------------------
 
-##### Fiora - A Double-Edged Sword:
+##### Fiora - A Double-Edged Sword: [Download](https://github.com/xwavex/lol-Build-Exporter/blob/master/Res/DLWFioraItem_1_CLASSIC-0.json)
 ```json
 {
     "champion": "Fiora",
