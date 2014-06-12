@@ -28,6 +28,51 @@ Screenshots
 ##### Export Button added to [mobafire.com](http://www.mobafire.com/):
 ![Mobafire Export Button](Res/mobafire_export_screenshot.jpg "Mobafire Export Button")
 
+Sample (exported) build
+---------------------
+
+##### Fiora - A Double-Edged Sword:
+```json
+{
+    "champion": "Fiora",
+    "title": "Fiora - A Double-Edged Sword",
+    "priority": true,
+    "map": "1",
+    "blocks": [{
+        "items": [{
+            "id": "1055",
+            "count": 1
+        }, {
+            "id": "3340",
+            "count": 1
+        }, {
+            "id": "2003",
+            "count": 1
+        }],
+        "type": "Risk Start"
+    }, {
+        "items": [{
+            "id": "1006",
+            "count": 2
+        }, {
+            "id": "2003",
+            "count": 1
+        }, {
+            "id": "3361",
+            "count": 1
+        }, {
+            "id": "3341",
+            "count": 1
+        }],
+        "type": "Safe Start"
+    }],
+    "_notes": "",
+    "type": "default",
+    "mode": "CLASSIC",
+    "_author": ""
+}
+```
+
 Further Information
 -------------------
 
