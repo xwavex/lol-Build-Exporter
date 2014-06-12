@@ -26,7 +26,7 @@ Screenshots
 -----------
 
 ##### Export Button added to [mobafire.com](http://www.mobafire.com/):
-![Mobafire Export Button](https://github.com/xwavex/lol-Build-Exporter/blob/master/Res/mobafire_export_screenshot.jpg "Mobafire Export Button")
+![Mobafire Export Button](Res/mobafire_export_screenshot.jpg "Mobafire Export Button")
 
 Further Information
 -------------------
