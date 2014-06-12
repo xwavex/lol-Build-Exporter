@@ -65,7 +65,11 @@ Sample (exported) build
             "count": 1
         }],
         "type": "Safe Start"
-    }],
+    }
+    .
+    .
+    .
+    ],
     "_notes": "",
     "type": "default",
     "mode": "CLASSIC",
